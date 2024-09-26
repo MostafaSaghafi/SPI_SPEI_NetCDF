@@ -1,2 +1,3 @@
-# SPI_SPEI_NetCDF
-1- Read NetCDF (.nc) Files and extract the Variables.  2- Plot the .nc files.   3- Export to .CSV file.   4- Calculate The Standardized Precipitation Index (SPI)        5- Calculate The Standardized Precipitation Evapotranspiration Index (SPEI) 
+#Calculate the SPI SPEI Drought Index (NetCDF Files)
+
+The process of calculating the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI) consists of several steps that utilize NetCDF (.nc) files. First, the NetCDF files are read to extract relevant variables, including precipitation and temperature data. Next, graphical plots of the extracted data can be generated to visualize trends. The data is then exported to a .CSV file for further analysis. Subsequently, the SPI is computed using precipitation data over a specified time scale, while the SPEI is calculated by incorporating both precipitation and potential evapotranspiration, enabling a comprehensive assessment of drought conditions.
